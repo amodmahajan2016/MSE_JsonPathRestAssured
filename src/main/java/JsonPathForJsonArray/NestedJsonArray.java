@@ -1,8 +1,6 @@
 package JsonPathForJsonArray;
 
 import java.util.List;
-import java.util.Map;
-
 import io.restassured.path.json.JsonPath;
 
 public class NestedJsonArray {
